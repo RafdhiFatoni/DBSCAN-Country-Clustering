@@ -30,13 +30,18 @@ This project delves into the fascinating world of global economics by applying m
 <h3>Installation</h3>
 <ul>Clone the repository to your local machine:</ul>
 
-git clone https://github.com/RafdhiFatoni/DBSCAN-Country-Clustering.git
-'''
+```
+git clone https://github.com/RafdhiFatoni/DBSCAN-Country-Clustering.git</pre>
+```
+
 <ul>Navigate to the project directory:</ul>
+
 ```
 cd DBSCAN-Country-Clustering
 ```
+
 <ul>Install the required packages. It's recommended to do this in a virtual environment.</ul>
+
 ```
 pip install pandas numpy scikit-learn matplotlib seaborn jupyterlab
 ```
@@ -44,10 +49,12 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyterlab
 <h2>Usage</h2>
 <p>The core of this project is within the Jupyter Notebook <code>.ipynb</code> file.</p>
 <ul>Launch Jupyter Lab or Notebook:</ul>
+
 ```
 jupyter lab
 ```
 or
+
 ```
 jupyter notebook
 ```
