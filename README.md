@@ -3,6 +3,19 @@
 <p align = "center" >An exploratory data science project that uses the <b>DBSCAN (Density-Based Spatial Clustering of Applications with Noise)</b> algorithm to group countries based on socio-economic and development indicators. 
 This project delves into the fascinating world of global economics by applying machine learning to uncover hidden patterns among nations. By analyzing a dataset of various countries, we can identify clusters of nations that share similar characteristics, providing valuable insights into global development, economic health, and more.</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/RafdhiFatoni/DBSCAN-Country-Clustering?style=flat&logo=git&logoColor=white&color=yellow" alt="License">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white" alt="Python Version">
+  <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=flat&logo=python&logoColor=white" alt="Code Style: Black">
+  <img src="https://img.shields.io/github/last-commit/RafdhiFatoni/DBSCAN-Country-Clustering?style=flat&logo=github&logoColor=white&color=green" alt="Last Commit">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-20232A?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
 <hr>
 <h2>✨ About The Project</h2>
 <p>The primary goal of this repository is to demonstrate a practical application of the DBSCAN clustering algorithm. Unlike traditional clustering methods like K-Means, DBSCAN does not require the number of clusters to be specified beforehand and can find arbitrarily shaped clusters while also identifying noise points (outliers).</p>
